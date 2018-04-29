@@ -1,0 +1,27 @@
+{
+  "telegram": {
+    "chatId": 0,
+    "botToken": "",
+    "notificationsEnabled": true
+  },
+  "cryptopia": {
+    "API_KEY": "",
+    "API_SECRET": ""
+  },
+  "trades": {
+    "forCheck": [
+      "BTC/USDT",
+      "ETC/USDT"
+    ]
+  },
+  "balances": {
+    "forCheck": [
+      "BTC",
+      "ETC",
+      "USDT"
+    ]
+  },
+  "notifyLimits": [
+    {"pair": "BTC_USDT", "downLimit": 9000, "highLimit": 9500}
+  ]
+}

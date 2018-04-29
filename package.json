@@ -1,0 +1,15 @@
+{
+  "name": "trader",
+  "version": "1.0.0",
+  "description": "trading bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cryptopia-api": "^1.2.14",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
